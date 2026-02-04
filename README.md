@@ -1,15 +1,55 @@
-Olá me chamo RAfael da conceicao
+<h1 align="center">👋 Hi, I'm Rafael</h1>
 
+<h3 align="center">
+Clinical Pharmacist • Medicinal Cannabis • Data Science
+</h3>
 
-Sou **Farmacêutico Clínico**, com foco em uso racional de medicamentos, saúde baseada em evidências e inovação no setor farmacêutico.
+<p align="center">
+🇧🇷 🇩🇪 🇬🇧 <br>
+Clinical Pharmacy • EU-GMP • Regulatory • Healthcare Data
+</p>
+## 🧠 About Me
 
-📊 **Estudando Ciência de Dados**, com interesse em análise aplicada à saúde, farmacovigilância, pesquisa clínica e tomada de decisão orientada por dados.  
-🌿 **Interesse em cannabis medicinal**, com ênfase em regulamentação, educação em saúde, modelos de negócio e **comércio digital** no contexto legal e científico.  
-💼 **Comércio e estratégias digitais**, especialmente em saúde, produtos regulados, educação farmacêutica e mercados emergentes.  
-🌍 **Idiomas:** Português (nativo), Alemão e Inglês  
-🧠 Interesses: farmacologia clínica, dados em saúde, cannabis medicinal, pesquisa científica, tecnologia e negócios digitais  
-🤝 Aberto a colaborações acadêmicas, científicas e projetos em saúde, dados e comércio digital  
+- 💊 Clinical Pharmacist with experience in **Medicinal Cannabis**
+- 📊 Studying **Data Science** applied to healthcare
+- 🌱 Focus on **regulatory affairs, EU-GMP and patient journey**
+- 🇩🇪 Professional experience in Germany
+- 🎯 Interested in clinical, regulatory and data-driven projects
+- ## 🛠️ Tools & Software
 
-🔗 **Contato profissional:**  
-👉 LinkedIn: *https://www.linkedin.com/in/rafael-da-conceicao/?locale=pt_BR*
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" />
+</p>
+- 📊 Data: Python, Pandas, NumPy, Jupyter  
+- 🧪 Pharma: Clinical Pharmacy, Medicinal Cannabis, EU-GMP, COA analysis  
+- 💻 Tools: Excel (advanced), Power BI (basic), Git
+## 🔬 Areas of Expertise
 
+- Clinical Pharmacy & Pharmaceutical Care
+- Medicinal Cannabis (flowers & extracts)
+- EU-GMP & Quality Documentation
+- Regulatory Affairs (Brazil & EU overview)
+- Healthcare Data Analysis
+- ## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+## 🚀 Featured Projects
+
+- 🧬 **Medicinal Cannabis Research**
+  - Regulatory frameworks
+  - EU suppliers mapping
+  - Quality & COA evaluation
+
+- 📊 **Healthcare Data Studies**
+  - Exploratory data analysis
+  - Clinical datasets
+  - Python notebooks
