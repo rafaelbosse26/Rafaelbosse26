@@ -4,7 +4,7 @@
     font=Fira+Code
     &size=20
     &pause=1500
-    &color=4CAF50
+    &color=6C757D
     &center=true
     &vCenter=true
     &width=700
