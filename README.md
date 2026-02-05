@@ -1,18 +1,7 @@
 <h1 align="center">Rafael Conceicao</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code
-    &size=20
-    &pause=1500
-    &color=6C757D
-    &center=true
-    &vCenter=true
-    &width=700
-    &lines=Clinical+Pharmacist;
-    Medicinal+Cannabis+Research;
-    Healthcare+Data+Science" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1500&color=6C757D&center=true&vCenter=true&width=700&lines=Clinical+Pharmacist;Medicinal+Cannabis+Research;Healthcare+Data+Science" />
 </p>
-
 <h3 align="center">
 Clinical Pharmacist • Medicinal Cannabis • Data Science
 </h3>
